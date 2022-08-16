@@ -1,14 +1,9 @@
-// import Carousel from '../../6-module/3-task/index.js';
 import Carousel from '../Carousel/index.js';
 import slides from '../Carousel/slides.js';
-// import slides from '../../6-module/3-task/slides.js';
 
-// import RibbonMenu from '../../7-module/RibbonMenu/index.js';
 import RibbonMenu from '../RibbonMenu/index.js';
 import categories from '../RibbonMenu/categories.js'
-// import categories from '../../components/RibbonMenu/categories.js.js.js';
 
-// import StepSlider from '../../components/StepSlider/index.js';
 import StepSlider from '../StepSlider/index.js';
 import ProductsGrid from '../ProductGrid/index.js';
 
