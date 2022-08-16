@@ -1,0 +1,16 @@
+{
+  "name": "bangkok-food-delivery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint \"./*-module/**/*.js\"",
+    "lint:fix": "eslint --fix \"./*-module/**/*.js\""
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "babel-loader": "^8.1.0",
+    "eslint": "^5.16.0",
+    "eslint-plugin-import": "^2.18.2",
+  }
+}
